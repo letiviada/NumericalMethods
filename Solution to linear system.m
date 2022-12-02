@@ -1,6 +1,4 @@
-%% Leticia Viada Campos
-% Mathematical Methods Computational homework 2
-%
+
 clear all, close all, clc, format long, format compact
 %%
 %
